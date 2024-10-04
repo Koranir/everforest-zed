@@ -4,6 +4,138 @@
   "author": "Sainnhe, brought to Zed by Thomas Alban",
   "themes": [
     {
+      "name": "Everforest Dark Exact",
+      "appearance": "dark",
+      "style": {
+        "background": "#1e2326",
+        "editor.background": "#272e33",
+        "editor.foreground": "#d3c6aa",
+        "editor.gutter.background": "#272e33",
+        "panel.background": "#272e33",
+        "editor.active_line.background": "#2e383c",
+        "status_bar.background": "#2e383c",
+        "terminal.ansi.red": "#e67e80",
+        "terminal.ansi.magenta": "#d699b6",
+        "terminal.ansi.blue": "#7fbbb3",
+        "terminal.ansi.green": "#a7c080",
+        "terminal.ansi.cyan": "#83c092",
+        "terminal.ansi.yellow": "#dbbc7f",
+        "terminal.ansi.black": "#414b50",
+        "terminal.ansi.white": "#d3c6aa",
+        "terminal.background": "#272e33",
+        "terminal.foreground": "#d3c6aa",
+
+        "title_bar.background": "#374145",
+        "toolbar.background": "#2e383c",
+
+        "tab_bar.background": "#2e383c",
+        "tab.active_background": "#4f5b58",
+        "tab.inactive_background": "#414b50",
+
+        "surface.background": "#2e383c",
+
+        "ghost_element.background": "#414b50",
+        "element.background": "#374145",
+
+        "text.accent": "#d699b6",
+
+        "element.active": "#FF00FF",
+
+        "border": "#4f5b58",
+        "elevated_surface.background": "#1e2326",
+        "hidden": "#859289",
+        "ignored": "#859289",
+
+        "text": "#d3c6aa",
+
+        "error": "#e67e80",
+        "error.border": "#e67e80",
+        "error.background": "#493b40",
+        "warning": "#dbbc7f",
+        "warning.border": "#dbbc7f",
+        "warning.background": "#45443c",
+        "info": "#a7c080",
+        "info.border": "#a7c080",
+        "info.background": "#384b55",
+        "hint": "#a7c080",
+        "hint.border": "#a7c080",
+        "hint.background": "#3c4841",
+        "success": "#83c092",
+        "success.border": "#83c092",
+        "success.background": "#384b55",
+
+        "renamed": "#d699b6",
+        "renamed.border": "#d699b6",
+        "renamed.background": "#493b40",
+        "conflict": "#dbbc7f",
+        "conflict.border": "#dbbc7f",
+        "conflict.background": "#45443c",
+        "created": "#a7c080",
+        "created.border": "#a7c080",
+        "created.background": "#3c4841",
+        "deleted": "#e67e80",
+        "deleted.border": "#e67e80",
+        "deleted.background": "#493b40",
+        "modified": "#dbbc7f",
+        "modified.border": "#dbbc7f",
+        "modified.background": "#45443c",
+
+        "editor.active_line_number": "#9da9a0",
+        "editor.line_number": "#7a8478",
+
+        "editor.active_wrap_guide": "#7a8478",
+        "editor.wrap_guide": "#2e383c",
+        "editor.invisible": "#7a8478",
+
+        "editor.subheader.background": "#FFFFFF",
+
+        "editor.document_highlight.read_background": "#495156",
+        "editor.document_highlight.write_background": "#4f5b58",
+
+        "editor.highlighted_line.background": "#2e383c",
+
+        "syntax": {
+          "attribute": {
+            "color": "#dbbc7f"
+          },
+          "constant": {
+            "color": "#d699b6"
+          },
+          "constructor": {
+            "color": "#d699b6"
+          },
+          "comment": {
+            "color": "#859289",
+            "font_style": "italic"
+          },
+          "function": {
+            "color": "#a7c080"
+          },
+          "keyword": {
+            "color": "#e67e80"
+          },
+          "number": {
+            "color": "#d699b6"
+          },
+          "operator": {
+            "color": "#e69875"
+          },
+          "property": {
+            "color": "#83c092"
+          },
+          "string.escape": {
+            "color": "#98c379"
+          },
+          "type": {
+            "color": "#7fbbb3"
+          },
+          "string": {
+            "color": "#a7c080"
+          }
+        }
+      }
+    },
+    {
       "name": "Everforest Dark",
       "appearance": "dark",
       "style": {
