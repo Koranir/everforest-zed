@@ -63,7 +63,6 @@
 
         "hint": "#859289",
         "hint.background": "#000000",
-        // "hint.background": "#1e2326",
         "hint.border": "#000000",
 
         "renamed": "#d699b6",
@@ -107,9 +106,14 @@
             "color": "#d699b6"
           },
           "comment": {
-            "color": "#859289",
-            "font_style": "italic"
-          },
+            "color": "#F0F192",
+            "font_weight": 300,
+            "font_style": "normal"
+          }
+          // "comment": {
+          //   "color": "#859289",
+          //   "font_style": "italic"
+          // },
           "function": {
             "color": "#a7c080"
           },
