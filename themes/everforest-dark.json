@@ -57,12 +57,14 @@
         "info": "#a7c080",
         "info.border": "#a7c080",
         "info.background": "#384b55",
-        "hint": "#a7c080",
-        "hint.border": "#a7c080",
-        "hint.background": "#3c4841",
         "success": "#83c092",
         "success.border": "#83c092",
         "success.background": "#384b55",
+
+        "hint": "#859289",
+        "hint.background": "#000000",
+        // "hint.background": "#1e2326",
+        "hint.border": "#000000",
 
         "renamed": "#d699b6",
         "renamed.border": "#d699b6",
@@ -87,7 +89,7 @@
         "editor.wrap_guide": "#2e383c",
         "editor.invisible": "#7a8478",
 
-        "editor.subheader.background": "#FFFFFF",
+        "editor.subheader.background": "#2e383c",
 
         "editor.document_highlight.read_background": "#495156",
         "editor.document_highlight.write_background": "#4f5b58",
