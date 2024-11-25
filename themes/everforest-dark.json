@@ -34,12 +34,16 @@
 
         "surface.background": "#2e383c",
 
-        "ghost_element.background": "#414b50",
+        "ghost_element.background": "#2e383c",
         "element.background": "#374145",
+        "element.active": "#2e383c",
+        "element.selected": "#272e33",
+        "element.hover": "#495156",
+        "ghost_element.hover": "#414b50",
+        "ghost_element.active": "#859289",
+        "ghost_element.selected": "#4f5b58",
 
         "text.accent": "#d699b6",
-
-        "element.active": "#FF00FF",
 
         "border": "#4f5b58",
         "elevated_surface.background": "#1e2326",
@@ -95,6 +99,13 @@
 
         "editor.highlighted_line.background": "#2e383c",
 
+        "players": [
+          {
+            "cursor": "#d3c6aa",
+            "selection": "#414b50",
+            "background": "#414b50"
+          }
+        ],
         "syntax": {
           "attribute": {
             "color": "#dbbc7f"
@@ -109,11 +120,7 @@
             "color": "#F0F192",
             "font_weight": 300,
             "font_style": "normal"
-          }
-          // "comment": {
-          //   "color": "#859289",
-          //   "font_style": "italic"
-          // },
+          },
           "function": {
             "color": "#a7c080"
           },
